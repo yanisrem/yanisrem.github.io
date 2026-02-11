@@ -11,54 +11,98 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**M.Sc. in Data Science**  
+*Institut Polytechnique de Paris – ENSAE Paris*  
+2023 – 2024  
+Focus: Advanced Machine Learning and Deep Learning.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**M.Eng. in Statistics and Data Science (DSSA Track)**  
+*ENSAE Paris*  
+2022 – 2024  
+Core coursework: Statistics, Machine Learning, Econometrics, Economics.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**M.Eng. in Statistics and Data Science**  
+*ENSAI*  
+2020 – 2024  
+Specialization: Statistical Engineering.
 
-Publications
+**Classe Préparatoire B/L (Humanities & Social Sciences)**  
+*Lycée Faidherbe, Lille*  
+2018 – 2020  
+
+---
+
+Professional Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+**Data Science Research Engineer**  
+*EDF R&D Lab Paris-Saclay – Palaiseau, France*  
+2025 – Present  
+
+- Development of AI solutions to enhance customer insights and design innovative pricing strategies.  
+- Long-term electricity demand forecasting using linear models, GAMs, Gradient Boosting, and Deep Learning methods, with direct applications to energy mix financial modeling.  
+- Causal inference analysis to quantify the impact of thermal renovation on household energy consumption, providing data-driven results for national communication campaigns.  
+- Application of Optimal Transport methods to construct residential flexibility scores and design customized tariff structures.  
+- Organization and facilitation of internal technical workshops to foster knowledge sharing.
+
+---
+
+**Data Scientist Intern**  
+*EDF R&D Lab Paris-Saclay – Palaiseau, France*  
+2024  
+
+- Implemented advanced Deep Learning architectures for residential electricity demand forecasting.  
+- Technical stack: PyTorch, TensorFlow, SQL, R.
+
+---
+
+**Data Scientist Intern**  
+*Cofidis Group – Villeneuve d'Ascq, France*  
+2023  
+
+- Developed NLP-based models for banking transaction categorization using Open Banking data.  
+- Implemented time-series classification methods to enhance credit risk models.  
+- Presented results to the Risk Management Executive Board.
+
+---
+
+**Data Scientist Intern**  
+*Cofidis Group – Villeneuve d'Ascq, France*  
+2022  
+
+- Designed a methodology to detect and mitigate ethical biases in AI scoring systems.  
+- Research subsequently adopted and implemented by Cofidis Belgium.
+
+---
+
+**Volunteer Data Analyst**  
+*CoderDojo Belgium – Mechelen, Belgium*  
+2024 – 2025  
+
+- Designed and deployed an internal dashboard for attendance reporting.
+
+---
+
+Technical Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+
+**Programming:** Python, R, SQL, SAS, C++, Git  
+
+**Machine Learning & Statistics:**  
+Deep Learning, Time-Series Forecasting, Panel Data Econometrics, Causal Inference, Statistical Modeling  
+
+**Tools:** LaTeX, Microsoft Office  
+
+**Languages:** TOEIC, Linguaskill certified  
+
+---
+
+Research Interests
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+- Electricity demand forecasting  
+- Deep learning for time-series analysis  
+- Panel data econometrics  
+- Causal inference in energy systems  
+- Demand flexibility and tariff design  
