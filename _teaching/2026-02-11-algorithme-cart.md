@@ -9,5 +9,5 @@ location: "Paris, France"
 ---
 
 <iframe src="{{ site.baseurl }}/files/algorithme-cart.pdf" width="100%" height="600px">
-    Link to CART algorithm course <a href="{{ site.baseurl }}/assets/pdf/algorithme-cart.pdf">le PDF</a>.
+    Link to CART algorithm course <a href="{{ site.baseurl }}/files/algorithme-cart.pdf">le PDF</a>.
 </iframe>
