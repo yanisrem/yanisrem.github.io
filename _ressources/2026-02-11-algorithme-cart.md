@@ -1,5 +1,5 @@
 ---
-title: "Algorithme CART : Théorie et Pratique"
+title: "L'Algorithme CART : Fondements Mathématiques et Mécanisme d'Élagage"
 collection: teaching
 type: "Notes de cours"
 permalink: /teaching/algorithme-cart
