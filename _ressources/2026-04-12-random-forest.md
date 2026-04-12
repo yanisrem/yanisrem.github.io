@@ -8,5 +8,5 @@ date: 2026-04-12
 location: "Paris, France"
 ---
 
-Here are my detailed lecture notes on the CART algorithm.
+Here are my detailed lecture notes on Bagging and Random Forest.
 [Download]({{ site.baseurl }}/files/random_forest.pdf)
