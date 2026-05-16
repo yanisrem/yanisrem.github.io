@@ -15,12 +15,12 @@ Education
 **M.Sc. in Data Science**  
 *Institut Polytechnique de Paris – ENSAE Paris*  
 2023 – 2024  
-Focus: Advanced Machine Learning and Deep Learning.
+Focus: Advanced Machine Learning, Deep Learning, Causal Inference and Reinforcement Learning.
 
 **M.Eng. in Statistics and Data Science (DSSA Track)**  
 *ENSAE Paris*  
 2022 – 2024  
-Core coursework: Statistics, Machine Learning, Econometrics, Economics.
+Core coursework: Statistics, Machine Learning, Reinforcement Learning, Online Learning, Optimal Transport, Econometrics, Economics.
 
 **M.Eng. in Statistics and Data Science**  
 *ENSAI*  
@@ -90,7 +90,7 @@ Technical Skills
 **Programming:** Python, R, SQL, SAS, C++, Git  
 
 **Machine Learning & Statistics:**  
-Deep Learning, Time-Series Forecasting, Panel Data Econometrics, Causal Inference, Statistical Modeling  
+Deep Learning, Time-Series Forecasting, Panel Data Econometrics, Causal Inference, Reinforcement Learning, Statistical Modeling  
 
 **Tools:** LaTeX, Microsoft Office  
 
